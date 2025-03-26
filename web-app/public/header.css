@@ -1,0 +1,25 @@
+html {
+    background-color: #F2EFE7;
+    display: flex;
+}
+
+.header {
+    display: flex;
+    width: 100vw;
+    height: 100px;
+    background-color: #006A71;
+    margin: 0;
+}
+
+.headingBox {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.heading {
+    font-family: "Lato";
+    color: #F2EFE7;
+}
+
