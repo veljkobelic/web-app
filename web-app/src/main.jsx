@@ -3,4 +3,6 @@ import ReactDom from "react-dom/client";
 import Header from "./header";
 
 const root = ReactDom.createRoot(document.getElementById("root"));
-root.render();
+root.render(
+    <Header/>
+);
