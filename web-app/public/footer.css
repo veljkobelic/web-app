@@ -5,10 +5,10 @@
     justify-content: center;
     width: 100vw;
     height: 50px;
-    background-color: #006A71;
+    background-color: white;
 }
 
 .label {
     font-family: "Lato";
-    color: #F2EFE7;
+    color: #fd1d1d;
 }
