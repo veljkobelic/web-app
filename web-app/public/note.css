@@ -1,0 +1,32 @@
+.noteBox {
+    background-color: #ffffff;
+    width: 300px;
+    height: 150px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.textFieldBox {
+    display: flex;
+    justify-content: center;
+}
+
+.noteNameText {
+    margin-top: 20px;
+    border: none;
+    border-bottom: 1px solid gainsboro;
+    outline: none;
+    width: 200px;
+}
+
+.contentBox {
+    display: flex;
+    justify-content: center;
+}
+
+textarea {
+    width: 200px;
+    margin-top: 20px;
+    resize: none;
+    border: 1px solid gainsboro;
+}
